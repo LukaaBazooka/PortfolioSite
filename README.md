@@ -1,4 +1,3 @@
-<table style="background-color:#89CFF0"> 
 # Luka Frith
 
 ---
@@ -14,5 +13,6 @@ Prior to starting at lewes college i taught myself the basic in python and also 
 I also learnt blender basics, which helped me develop my skills in model creation. During college this aided me a lor as i learnt even more from blender, having not needed to realearn the basics.
 Im happy to say im skilled in making models in and out of blender.
 
-_Another thing id like to note is i learnt the basics of animations such as the knowledge of easing types._
+_Another thing id like to note is i learnt the basics of animations such as the knowledge of easing types._  
 
+---
